@@ -84,5 +84,4 @@
 
   4) Удаление пользователей(только для админа)
 
-
-Репозиторий: https://github.com/ovchinnikov94/chat_nodejs
+  Репозиторий: https://github.com/ovchinnikov94/chat_nodejs
